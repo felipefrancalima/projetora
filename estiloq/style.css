@@ -186,3 +186,14 @@ aside > ul {
     list-style-position: inside;
     columns: 2;
 }
+
+footer a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: var(--cor1);
+}
